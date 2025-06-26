@@ -10,7 +10,6 @@
               "KASM_PORT=8080"
             ],
             "privileged": true,
-            "network_mode": "bridge",
             "labels": {
                 "cosmos-force-network-secured": "true",
                 "cosmos-auto-update": "true",
