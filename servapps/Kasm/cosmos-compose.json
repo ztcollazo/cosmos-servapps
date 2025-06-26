@@ -27,11 +27,11 @@
               }, {
                 "source": "/dev/input",
                 "target": "/dev/input",
-                "type": "volume"
+                "type": "bind"
               }, {
                 "source": "/dev/input",
                 "target": "/dev/input",
-                "type": "volume"
+                "type": "bind"
               }],
             "routes": [{
                 "name": "{ServiceName}",
