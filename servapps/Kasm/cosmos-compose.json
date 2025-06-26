@@ -29,8 +29,8 @@
                 "target": "/dev/input",
                 "type": "bind"
               }, {
-                "source": "/dev/input",
-                "target": "/dev/input",
+                "source": "/run/udev/data",
+                "target": "/run/udev/data",
                 "type": "bind"
               }],
             "routes": [{
