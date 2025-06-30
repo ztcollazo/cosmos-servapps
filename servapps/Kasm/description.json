@@ -7,7 +7,7 @@
     "Workspaces"
   ],
   "repository": "https://github.com/linuxserver/kasm",
-  "image": "https://hub.docker.com/linuxserver/kasm",
+  "image": "https://hub.docker.com/r/linuxserver/kasm",
   "supported_architectures": [
     "amd64",
     "arm64"
