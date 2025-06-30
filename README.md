@@ -7,4 +7,5 @@ Some of my personal ServApps, forked from the [example](https://github.com/azuka
 | ServApp | Description |
 | --- | --- |
 | Kasm | In-browser workspaces |
+| Seafile | File sharing and collaboration |
 
