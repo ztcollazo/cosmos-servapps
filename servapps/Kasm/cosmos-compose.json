@@ -7,7 +7,7 @@
             "container_name": "{ServiceName}",
             "restart": "unless-stopped",
             "environment": [
-              "KASM_PORT=8080"
+              "KASM_PORT=443"
             ],
             "privileged": true,
             "labels": {
@@ -36,7 +36,7 @@
                 "name": "{ServiceName}",
                 "description": "Expose {ServiceName} to the web",
                 "useHost": true,
-                "target": "http://{ServiceName}:8080",
+                "target": "http://{ServiceName}:443",
                 "mode": "SERVAPP",
                 "Timeout": 14400000,
                 "ThrottlePerMinute": 12000,

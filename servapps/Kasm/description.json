@@ -1,5 +1,5 @@
 {
-  "name": "kasm",
+  "name": "Kasm",
   "description": "The Container Streaming Platform",
   "longDescription": "The Container Streaming Platform - Streaming containerized apps and desktops to end-users. The Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.",
   "tags": [
@@ -7,7 +7,7 @@
     "Workspaces"
   ],
   "repository": "https://github.com/linuxserver/kasm",
-  "image": "https://avatars.githubusercontent.com/u/44181855?s=280&v=4",
+  "image": "https://hub.docker.com/linuxserver/kasm",
   "supported_architectures": [
     "amd64",
     "arm64"
